@@ -1,0 +1,25 @@
+﻿  lines98.cpp
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(153,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(153,34): warning C4244:         with
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(153,34): warning C4244:         [
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(153,34): warning C4244:             T=float
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(153,34): warning C4244:         ]
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(154,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(154,49): warning C4244:         with
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(154,49): warning C4244:         [
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(154,49): warning C4244:             T=float
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(154,49): warning C4244:         ]
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(160,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(160,31): warning C4244:         with
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(160,31): warning C4244:         [
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(160,31): warning C4244:             T=float
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(160,31): warning C4244:         ]
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(161,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(161,31): warning C4244:         with
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(161,31): warning C4244:         [
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(161,31): warning C4244:             T=float
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(161,31): warning C4244:         ]
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(194,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(194,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Hamza\source\repos\lines98\lines98\lines98.cpp(206,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lines98.vcxproj -> C:\Users\Hamza\source\repos\lines98\x64\Debug\lines98.exe
